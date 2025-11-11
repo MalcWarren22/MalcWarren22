@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MalcWarren22/threat-hunting-scenario-tor)**
 
-  ## ☁️ Cloud Architecture & DevOps Projects
+## ☁️ Cloud Architecture & DevOps Projects
 
 - **[Black Friday Architecture Lab](https://github.com/MalcWarren22/blackfriday-architecture-lab)**  
   *A full Azure cloud landing zone simulation for a high-traffic e-commerce scenario — built with Bicep, GitHub Actions, and Application Insights for observability.*  
