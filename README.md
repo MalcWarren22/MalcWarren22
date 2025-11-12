@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Architecture & DevOps Projects
 
-- **[Black Friday Architecture Lab](https://github.com/MalcWarren22/blackfriday-architecture-lab)**  
+- **["Black Friday" Architecture Lab](https://github.com/MalcWarren22/blackfriday-architecture-lab)**  
   *A full Azure cloud landing zone simulation for a high-traffic e-commerce scenario — built with Bicep, GitHub Actions, and Application Insights for observability.*  
 
 <hr/>
