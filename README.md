@@ -14,6 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Architecture & DevOps Projects
 
+ **[Enterprise Azure Landing Zone](https://github.com/MalcWarren22/Enterprise-Landing-Zone)**  
+  *A fully-modular Azure cloud foundation designed for enterprise workloads, built with Bicep, secure Hub-and-Spoke networking, private endpoints, Azure Key Vault, SQL Database, Storage, App Service VNet Integration, and Log Analytics + Application Insights for unified observability.*  
 - **["Black Friday" Architecture Lab](https://github.com/MalcWarren22/blackfriday-architecture-lab)**  
   *A full Azure cloud landing zone simulation for a high-traffic e-commerce scenario — built with Bicep, GitHub Actions, and Application Insights for observability.*  
 
