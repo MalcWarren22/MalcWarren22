@@ -14,6 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Architecture & DevOps Projects
 
+- **[Terraform AKS + Datadog Observability](https://github.com/MalcWarren22/tf-aks-datadog)**  
+  *Designed a cloud-native AKS platform using Terraform with Datadog observability, enabling automated infrastructure provisioning and real-time insight into Kubernetes workloads and cluster performance.*  
 - **[Jenkins + Kubernetes CI/CD Automation](https://github.com/MalcWarren22/k8s-jenkins-lab)**  
   *Designed and deployed a containerized application pipeline using Jenkins and Kubernetes to automate builds, container images, and application deployments, demonstrating hands-on DevOps orchestration and CI/CD best practices.*  
 - **[Enterprise Azure Landing Zone](https://github.com/MalcWarren22/Enterprise-Landing-Zone)**  
