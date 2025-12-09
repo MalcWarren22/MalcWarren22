@@ -14,6 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Architecture & DevOps Projects
 
+- **[Jenkins + Kubernetes CI/CD Automation](https://github.com/MalcWarren22/k8s-jenkins-lab)**  
+  *Designed and deployed a containerized application pipeline using Jenkins and Kubernetes to automate builds, container images, and application deployments, demonstrating hands-on DevOps orchestration and CI/CD best practices.*  
 - **[Enterprise Azure Landing Zone](https://github.com/MalcWarren22/Enterprise-Landing-Zone)**  
   *A fully-modular Azure cloud foundation designed for enterprise workloads, built with Bicep, secure Hub-and-Spoke networking, private endpoints, Azure Key Vault, SQL Database, Storage, App Service VNet Integration, and Log Analytics + Application Insights for unified observability.*  
 - **["Black Friday" Architecture Lab](https://github.com/MalcWarren22/blackfriday-architecture-lab)**  
