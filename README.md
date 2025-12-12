@@ -14,6 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Architecture & DevOps Projects
 
+- **[AWS Secure Web Platform Automation](https://github.com/MalcWarren22/aws-secure-app-automation)**  
+  *Built a cloud-native AWS web stack using Terraform with integrated security and CI guardrails. Implemented network segmentation, private compute, load balancing, encrypted logging, and automated infrastructure validation to mirror real-world cloud engineering workflows.* 
 - **[Terraform AKS + Datadog Observability](https://github.com/MalcWarren22/tf-aks-datadog)**  
   *Designed a cloud-native AKS platform using Terraform with Datadog observability, enabling automated infrastructure provisioning and real-time insight into Kubernetes workloads and cluster performance.*  
 - **[Jenkins + Kubernetes CI/CD Automation](https://github.com/MalcWarren22/k8s-jenkins-lab)**  
