@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/malcolm-warren-nsu/">Malcolm Warren</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Cloud engineer with hands-on experience building and operating cloud infrastructure using Infrastructure as Code. This portfolio highlights projects across AWS and Azure, including secure networking, infrastructure automation, observability, and supporting security operations.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. I am a Cloud engineer with hands-on experience building and operating cloud infrastructure using Infrastructure as Code. This portfolio highlights projects across AWS and Azure, including secure networking, infrastructure automation, observability, and supporting security operations.
 
 
 ## ⚠️ Vulnerability Management Projects
