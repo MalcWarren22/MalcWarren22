@@ -18,8 +18,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   *Built a cloud-native AWS web stack using Terraform with integrated security and CI guardrails. Implemented network segmentation, private compute, load balancing, encrypted logging, and automated infrastructure validation to mirror real-world cloud engineering workflows.* 
 - **[Terraform AKS + Datadog Observability](https://github.com/MalcWarren22/tf-aks-datadog)**  
   *Designed a cloud-native AKS platform using Terraform with Datadog observability, enabling automated infrastructure provisioning and real-time insight into Kubernetes workloads and cluster performance.*  
-- **[Terraform AKS + Datadog Observability](https://github.com/MalcWarren22/tf-aks-datadog)**  
-  *Designed a cloud-native AKS platform using Terraform with Datadog observability, enabling automated infrastructure provisioning and real-time insight into Kubernetes workloads and cluster performance.*  
+- **[Multi-Cloud Network Infrastructure (AWS & Azure)](https://github.com/MalcWarren22/multicloud-terraform-networking)**  
+  *Provisioned secure AWS and Azure network infrastructure using Terraform, implementing subnet segmentation, routing, and access controls to support reliable cloud operations.*  
 
 <hr/>
 
