@@ -3,7 +3,7 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. I am a Cloud engineer with hands-on experience building and operating cloud infrastructure using Infrastructure as Code. This portfolio highlights projects across AWS and Azure, including secure networking, infrastructure automation, observability, and supporting security operations.
 
 
-## ⚠️  Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/MalcWarren22/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/MalcWarren22/programmatic-vulnerability-remediations)**
