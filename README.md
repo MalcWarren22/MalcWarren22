@@ -19,7 +19,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Terraform AKS + Datadog Observability](https://github.com/MalcWarren22/tf-aks-datadog)**  
   *Designed a cloud-native AKS platform using Terraform with Datadog observability, enabling automated infrastructure provisioning and real-time insight into Kubernetes workloads and cluster performance.*  
 - **[Multi-Cloud Network Infrastructure (AWS & Azure)](https://github.com/MalcWarren22/multicloud-terraform-networking)**  
-  *Provisioned secure AWS and Azure network infrastructure using Terraform, implementing subnet segmentation, routing, and access controls to support reliable cloud operations.*  
+  *Provisioned secure AWS and Azure network infrastructure using Terraform, implementing subnet segmentation, routing, and access controls to support reliable cloud operations.*
+- **[Sentiment Analysis Cloud Project Migration](https://github.com/MalcWarren22/cloud-project-migration)**  
+    *Cloud-native AI sentiment analysis platform built on Azure using Terraform, serverless APIs, Azure AI Language, SQL storage, and Azure Front Door with WAF for secure global access.*
+  
 
 <hr/>
 
