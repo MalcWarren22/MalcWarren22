@@ -21,7 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Multi-Cloud Network Infrastructure (AWS & Azure)](https://github.com/MalcWarren22/multicloud-terraform-networking)**  
   *Provisioned secure AWS and Azure network infrastructure using Terraform, implementing subnet segmentation, routing, and access controls to support reliable cloud operations.*
 - **[Sentiment Analysis Cloud Project Migration](https://github.com/MalcWarren22/cloud-project-migration)**  
-    *Cloud-native AI sentiment analysis platform built on Azure using Terraform, serverless APIs, Azure AI Language, SQL storage, and Azure Front Door with WAF for secure global access.*
+    *Cloud-native AI sentiment analysis platform built on Azure using Terraform, serverless APIs, Azure AI Language, Azure SQL, Blob storage, and Azure Front Door with WAF for secure global access.*
   
 
 <hr/>
